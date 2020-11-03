@@ -43,7 +43,7 @@ react-native run-android
 *报错：Could not find com.github.yalantis:ucrop:2.2.2-native*
 
 解决方法：
-![react-native run-android报错](./images/20-11-03.png)
+![react-native run-android报错](../images/20-11-03.png)
 
 ## 三. 打包
 
